@@ -1,7 +1,7 @@
 # womensecret.cz Website testing
 This repository documents manual testing of [womensecret.cz](https://womensecret.com/cz/en). The testing process focused on:
 
-Navigation & Structure: Evaluating link functionality and menu usability.
+#Navigation & Structure: Evaluating link functionality and menu usability.
 
 Functionality: Testing forms, buttons, filters, and interactive elements.
 
